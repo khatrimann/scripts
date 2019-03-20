@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp"
+    },
+    "python.pythonPath": "/opt/anaconda3/bin/python"
+}
